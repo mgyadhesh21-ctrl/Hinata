@@ -1,0 +1,97 @@
+.rock{
+    border: 1px solid gray;
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+    position: relative;
+}
+.john{
+    position: relative;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius:15px ;
+}
+.pink{
+    position: absolute;
+    color: green;
+    background-color: rgb(197, 223, 204);
+    border-radius: 10px;
+    width: 280px;
+    height: 30px;
+    font-size: large;
+    padding-left: 50px;
+    padding-top: 5px ;
+    bottom: -10;
+    right: 10;
+}
+.moon{
+    width: 20px;
+    height: 15px;
+    border-radius: 100px;
+    position: absolute;
+    right: 30;
+    top: 210;
+}
+.blue{
+    position: absolute;
+    top: 187;
+    right: 5;
+    color: white;
+}
+.red{
+    color: rgb(243, 241, 232);
+    background-color: black;
+    position: absolute;
+    top:180;
+    left: 10;
+}
+.yellow{
+    position: absolute;
+    left: 10;
+}
+.green{
+    position: absolute;
+    left: 10;
+    bottom: 90;
+}
+.black{
+    position: absolute;
+    right: 10;
+}
+.white{
+    position: absolute;
+    right: 10;
+    bottom: 90;
+}
+.violet{
+    position: absolute;
+    left: 10;
+    bottom: 60;
+    font-size: small;
+    border: 1px solid rgb(66, 63, 63);
+    color: rgb(18, 17, 17);
+    border-radius: 15px;
+    padding-top: 1px;
+    width: 90px;
+    height: 15px;
+    padding-left: 15px;
+    background-color: rgb(245, 244, 244);
+}
+.knock{
+    border: 1px solid gray;
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+    position: absolute;
+    left: 420px;
+    top: 10;
+}
+.lock{
+    border: 1px solid gray;
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+    position: absolute;
+    left: 830px;
+    top: 10;
+}

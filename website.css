@@ -1,0 +1,278 @@
+.red{
+    width: 1500px;
+    height: 100%;
+    position: relative;
+    background-color: rgba(48, 155, 188, 0.971);
+}
+.met{
+    height: 100px;
+    background-color: black;
+    position: sticky;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+.got{
+    list-style-type: none;
+    color: rgb(211, 213, 214);
+    font-weight: bolder;
+    font-size: x-large;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    padding-top: 30px;
+    padding-right: 200px;
+}
+.set{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    right: 40px;
+    top: 30px;
+}
+.pic{
+    width: 100%;
+    height: 810px;
+}
+.nar{
+    color: rgb(241, 237, 239);
+    margin-left: 25px;
+    font-weight: bolder;
+    padding-bottom: 2px;
+}
+.blue{
+    width: 1370px;
+    height: 800px;
+    display: flex;
+    gap: 140px;
+    padding-top: 220px;
+    padding-left: 300px;
+}
+.abt{
+    width: 500px;
+    height: 600px;
+}
+.nt{
+    font-size: 40px;
+}
+.bt{
+    width: 400px;
+    height: 500px;
+}
+.con{
+    font-weight: bolder;
+    color: black;
+}
+.green{
+    width:1500px ;
+    height:100% ;
+}
+h2{
+    font-size: 40px;
+}
+.yellow{
+    width:1500px ;
+    height:100% ;
+}
+.end{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    width: 1500px;
+    height: 750px ;
+    background-color: rgb(9, 6, 6);
+}
+.met{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+.no{
+    color: rgb(249, 242, 242);
+    font-size: 50px;
+}
+.retro{
+   padding-top: 150px;
+   background-color: rgba(0, 0, 0, 0.44);
+}
+.rit{
+    width: 100%;
+    height: 150px;
+    background-color: rgba(7, 4, 4, 0.947);
+    padding-top: 20px;
+}
+.ret{
+    list-style-type: none;
+    color: rgb(211, 213, 214);
+    font-weight: bolder;
+    font-size: large;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.hate{
+    color: white;
+}
+.c1{
+    width: 350px;
+    height: 450px;
+    border: 2px solid gold;
+    border-radius: 10px;
+    background-color: gold;
+    position: relative;
+}
+.it{
+    width: 100%;
+    height: 350px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+}
+.dec{
+    margin-left: 10px;
+    margin-top: -15px;
+}
+.nit{
+   margin-left: 10px; 
+   
+}
+.mit{
+   position: absolute;
+   right: 10px;
+   bottom: 35px;
+   border: 1px solid rgb(235, 225, 225);
+   border-radius: 5px;
+   background-color: rgb(236, 227, 227);
+   width: 40px;
+   padding-left: 10px;
+}
+.all{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.mo{
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-top: 5px;
+    font-weight: bolder;
+    color: white;
+    background-color: black;
+}
+.cont{
+    display: flex;
+    gap: 200px;
+    justify-content: center ;
+}
+.black{
+    width: 1500px;
+    height: 910px;
+}
+.top{
+    font-size: 60px;
+    padding-top: 50px;
+}
+.doo{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.qet{
+    font-size: 20px;
+    color: rgb(15, 15, 15);
+    text-shadow: 100px red;
+    -webkit-text-stroke: 0.1px rgb(73, 73, 146);
+}
+.loo{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+.dog{
+    width: 250px;
+    height: 300px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.qu{
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.white{
+    width: 1500px;
+    height: 650px;
+    background-color: rgba(0, 255, 255, 0.741);
+}
+.white{
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 12px;
+  font-family: 'Poppins', sans-serif;
+}
+.white input{
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 15px;
+}
+.white button{
+  width: 100%;
+  padding: 14px;
+  background-color: #000;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+.black p{
+    color: rgb(7, 27, 74);
+    font-size: large;
+}
+.met a{
+    text-decoration: none;
+    color: white;
+}
+.rit a{
+    text-decoration: none;
+    color: white;
+}
+.pu{
+    font-size: 20px;
+    color: red;
+}
+.met a:hover{
+    background-color: goldenrod;
+    border-radius: 6px;
+}
+.white input:focus{
+    background-color: rgba(37, 31, 35, 0.104);
+}
+.white button:hover{
+    transform: scale(1.1);
+}
+.cont a:hover{
+    transform: scale(1.1);
+}
+.met button:active{
+    color: rgb(29, 32, 32);
+    background-color: azure;
+}
+.c1:hover{
+   transform: scale(0.9);
+}
+

@@ -1,0 +1,26 @@
+.white{
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 12px;
+  font-family: 'Poppins', sans-serif;
+}
+.white input{
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+.white button{
+  width: 100%;
+  padding: 14px;
+  background-color: #dd0c0c;
+  color: #fff;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+}
